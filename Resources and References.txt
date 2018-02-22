@@ -1,0 +1,5 @@
+﻿1. http://www.datavis.ca/sasmac/brewerpal.html
+2. https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
+3. https://cdn.rawgit.com/Zhenmao/udacity-dand-p4-explore-and-summarize-data/2e0a8fb2/udacity_dand-p4-explore-and-summarize-data.html
+4. https://stackoverflow.com/questions/43475764/ggplot-non-finite-values-error
+5. https://www.rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf
